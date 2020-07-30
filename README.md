@@ -1,2 +1,2 @@
 # okra
-NodeJS Wrapper A NodeJS Wrapper for Okra APIs - https://docs.okra.ng/
+A NodeJS wrapper for the [Okra KYC API](https://docs.okra.ng/)
